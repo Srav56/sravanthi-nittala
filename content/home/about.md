@@ -9,5 +9,5 @@ title: Biography
 design:
   background:
     image: ""
+    color: black
 ---
-Graduated from P.E.S. Institute of Technology, Bangalore South Campus with a major in Computer Science and Engineering. My research interests include Artificial Intelligence and Natural Language Processing, with a special interest in their application in the field of healthcare.
