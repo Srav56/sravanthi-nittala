@@ -9,5 +9,5 @@ title: Biography
 design:
   background:
     image: ""
-    color: black
+    color: ""
 ---
