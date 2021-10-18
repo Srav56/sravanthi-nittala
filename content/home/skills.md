@@ -10,7 +10,7 @@ headless: true
 weight: 30
 
 title: Skills
-subtitle: Languages
+subtitle:
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
@@ -19,12 +19,15 @@ feature:
 - icon: java
   icon_pack: fab
   name: Java
-- icon: chart-line
+- icon: code
   icon_pack: fas
-  name: Statistics
-- icon: camera-retro
+  name: C/C++
+- icon: python
   icon_pack: fas
-  name: Photography
+  name: Python
+- icon: database
+  icon_pack: fas
+  name: MySQL
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
