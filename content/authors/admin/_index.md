@@ -33,4 +33,4 @@ Graduated from P.E.S. Institute of Technology, Bangalore South Campus with a maj
 
 <!--EndFragment-->
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/SravanthiNDP_Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
