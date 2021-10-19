@@ -17,6 +17,11 @@ social:
     link: https://www.linkedin.com/in/sravanthi-nittala-838519193/
     icon_pack: fab
     icon: linkedin
+  - display:
+      header: false
+    link: https://observationsofthemindseye.wordpress.com/
+    icon_pack: fab
+    icon: wordpress
 organizations: []
 education:
   courses:
