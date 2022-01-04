@@ -8,6 +8,6 @@ weight: 20
 title: Biography
 design:
   background:
-    image: ""
+    image: "../../assets/media/pro_pic.jpg"
     color: ""
 ---
