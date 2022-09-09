@@ -1,7 +1,7 @@
 ---
 title: Sravanthi N.D.P.
 role: ""
-avatar_filename: pro_pic.jpg
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Artificial Intelligence
